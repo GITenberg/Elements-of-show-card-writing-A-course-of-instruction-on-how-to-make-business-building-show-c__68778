@@ -1,11 +1,16 @@
 _repo: Elements-of-show-card-writing-A-course-of-instruction-on-how-to-make-business-building-show-c__68778
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68778-h/images/cover.jpg
 creator:
   author:
     agent_name: DeWild, John H.
     gutenberg_agent_id: '54944'
     url: http://www.gutenberg.org/2009/agents/54944
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68778#Elements-of-show-card-writing-A-course-of-instruction-on-how-to-make-business-building-show-c_
 gutenberg_issued: '2022-08-17'
 identifiers:
   gutenberg: '68778'
